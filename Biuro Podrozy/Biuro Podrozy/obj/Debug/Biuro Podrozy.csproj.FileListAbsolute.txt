@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\bin\Debug\Biuro Podrozy.exe.config
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\bin\Debug\Biuro Podrozy.exe
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\bin\Debug\Biuro Podrozy.pdb
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\App.g.cs
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy_MarkupCompile.cache
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy.g.resources
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro_Podrozy.Properties.Resources.resources
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy.exe
+C:\Users\local\Desktop\Kolokwium\Biuro Podrozy\Biuro Podrozy\obj\Debug\Biuro Podrozy.pdb
